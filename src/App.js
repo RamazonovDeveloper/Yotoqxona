@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       Salom
       Something
-      alik
+      Created
     </div>
   );
 }
