@@ -4,7 +4,8 @@ function App() {
   return (
     <div className="App">
       Salom
-      Dunyo
+      Something
+      alik
     </div>
   );
 }
